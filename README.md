@@ -1,6 +1,6 @@
 # diversity-napa
 
-[![Deployment status from DeployBot](https://yikesinc.deploybot.com/badge/66802253948241/119584.svg)](http://deploybot.com)
+[![Deployment status from DeployBot](https://yikesinc.deploybot.com/badge/02267417982747/131189.svg)](http://deploybot.com)
 
 ## Diversity Works - Napa VIP Workshop 2018 edition
 
