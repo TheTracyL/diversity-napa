@@ -4,7 +4,7 @@
 
 ## Diversity Works - Napa VIP Workshop 2018 edition
 
-The slide deck for my Diversity Works talk at WCUS 2017
+The slide deck for my Diversity Works talk at the Napa VIP Workshop 2018
 
 http://slides.thetracyl.com/vip2018/
 
