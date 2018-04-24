@@ -77,10 +77,10 @@
   padding: 0;
   background: #151e25;
   color: #fff; }
-  .reveal footer a {
-    color: #fff; }
-    .reveal footer a img {
-      height: auto;
-      width: 100%; }
+  .reveal footer img {
+    height: auto;
+    display: block;
+    margin: 10px auto 20px;
+    width: 90%; }
 
 /*# sourceMappingURL=custom.css.map */

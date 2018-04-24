@@ -133,13 +133,11 @@ $white: #fff;
 	background: #151e25;
 	color: #fff;
 
-	a  {
-		color: #fff;
-
-		img {
-			height: auto;
-			width: 100%;
-		}
+	img {
+	    height: auto;
+	    display: block;
+	    margin: 10px auto 20px;
+	    width: 90%;
 	}
 
 	.footer-credits {}
