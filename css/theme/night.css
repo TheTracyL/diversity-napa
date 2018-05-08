@@ -63,8 +63,11 @@ body {
 }
 
 .reveal h4 {
+  color: #a3afb5;
   font-family: 'Open Sans', sans-serif;
-  font-size: 2em; }
+  font-size: 1em;
+  font-weight: 500;
+}
 
 
 
