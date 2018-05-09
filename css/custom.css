@@ -54,6 +54,8 @@
   .reveal .horizontal-list li {
     display: inline-block;
     width: 24%; }
+.reveal .no-bullets {
+  list-style-type: none; }
 
 /*********************************************
  * IMAGES
